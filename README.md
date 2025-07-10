@@ -4,7 +4,7 @@
 
 ---
 
-## 🕹 Gameplay
+## Gameplay
 
 - Jump from platform to platform to stay alive.
 - The game ends when the player falls.
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧾 How to Play
+## How to Play
 
 - **Left Arrow** – Move Left  
 - **Right Arrow** – Move Right  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 - Simply run the .exe file!
 
