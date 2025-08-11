@@ -2,6 +2,8 @@
 
 **Hottie Tower** is a 2D platformer game where players jump from platform to platform, aiming to climb as high as possible before falling. The game challenges your reflexes, timing, and coordination. Choose between two difficulty levels and try to beat the leaderboard scores!
 
+# VIDEO DEMO:
+**https://drive.google.com/drive/folders/10Fq44cmOchNPQb3BjllCLtTwyazitcMH?usp=sharing**
 ---
 
 ## Gameplay
